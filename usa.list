@@ -29,3 +29,10 @@ DOMAIN-SUFFIX,apple-intelligence.com
 DOMAIN-SUFFIX,apple-intelligence.net
 DOMAIN-SUFFIX,apple-intelligence-assets.com
 DOMAIN-SUFFIX,apple-intelligence-public.com
+
+# steam usa
+DOMAIN,store.steampowered.com
+DOMAIN,avatars.fastly.steamstatic.com
+DOMAIN,shared.cloudflare.steamstatic.com
+DOMAIN,steamcommunity.com
+DOMAIN,api.steampowered.com
