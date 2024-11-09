@@ -1,0 +1,8 @@
+# 用于屏蔽广告和跳转等流氓事件
+
+# ads
+DOMAIN-SUFFIX,ttkan.shop
+
+#porn
+DOMAIN-SUFFIX,u3tnt8.cn
+DONAIN-SUFFIX,发中集团.公司
