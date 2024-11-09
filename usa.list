@@ -36,3 +36,6 @@ DOMAIN,avatars.fastly.steamstatic.com
 DOMAIN,shared.cloudflare.steamstatic.com
 DOMAIN,steamcommunity.com
 DOMAIN,api.steampowered.com
+
+# others
+DOMAIN,digicert.com
